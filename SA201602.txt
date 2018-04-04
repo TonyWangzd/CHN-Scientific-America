@@ -1,0 +1,10 @@
+##############################
+This is a personal project which would include translation&NLU
+Writing by Zhaodong, Wang for UESTC 2018/4
+
+##############################
+This country demands bold, persistant experimentation.
+It is common sense to take a method and try it. And if it fails admit it frankly and try another. 
+
+##############################
+Hope she can recover on wheels, for god sake.
